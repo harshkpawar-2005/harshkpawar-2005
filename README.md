@@ -1,6 +1,5 @@
 
-# Hi, I'm Harshal Pawar 👋
-
+# 👋 Hey, I’m Harshal
 💻 Full-Stack Developer  
 🌱 Currently learning Generative AI & Data Engineering
 
